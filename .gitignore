@@ -1,0 +1,6 @@
+# Binaries
+basebot
+basebot.exe
+
+# Reinclude cmd directory
+!cmd/basebot
